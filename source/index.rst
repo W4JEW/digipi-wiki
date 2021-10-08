@@ -10,8 +10,11 @@ Welcome to DigiPi Wiki's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   welcome
    overview
+   hardware
+   shopping-list
+   build-it
+   configure-it
 
 Indices and tables
 ==================
