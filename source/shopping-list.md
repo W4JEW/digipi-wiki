@@ -40,9 +40,9 @@ You can safely buy a larger Micro SD Card, but 16 GB is more than sufficient
 
 Two models have been tested:
 
-- Fe-Pi v2
+1. Fe-Pi v2
 
-- Audio Interface Z
+2. Audio Interface Z
 
 - Testing has proven that GPIO-based audio interfaces yield superior results to the inexpensive USB sound card dongles
 
@@ -84,7 +84,7 @@ Two models have been tested:
 
 ### Resistor - 100K 1/8W Resistor
 
-- *MANDATORY* if your radio does not support CAT control via USB
+- *MANDATORY* if your radio DOES NOT support CAT control via USB
 
 - Also used to PTT your radio
 
@@ -98,7 +98,7 @@ Two models have been tested:
 
 ### RJ-12 Cable
 
-- *MANDATORY if your radio does not support CAT control via USB*
+- *MANDATORY if your radio DOES NOT support CAT control via USB*
 
 - Provides connectivity between DigiPi and your radio - ferrites recommended
 
@@ -120,7 +120,7 @@ Two models have been tested:
 
 ### USB to Micro USB Cable
 
-*MANDATORY if your radio does supports CAT Control and Audio via USB*
+*MANDATORY if your radio DOES support CAT Control and Audio via USB*
 
 You already knew this, right?
 
