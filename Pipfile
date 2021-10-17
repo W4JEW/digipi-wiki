@@ -7,6 +7,9 @@ name = "pypi"
 sphinx = "*"
 sphinx-rtd-theme = "*"
 myst-parser = "*"
+testresources = "*"
+docutils = "*"
+doc8 = "*"
 
 [dev-packages]
 
