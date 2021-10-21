@@ -1,0 +1,1 @@
+Placeholder for images and content related to Kenwood D700/D710
