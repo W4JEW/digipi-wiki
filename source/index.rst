@@ -11,7 +11,7 @@ Welcome to DigiPi Wiki's documentation!
    :caption: Contents:
 
    fin
-  
+   digipi-wiki-demo  
 
 Indices and tables
 ==================
