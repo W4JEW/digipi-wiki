@@ -33,7 +33,7 @@ The text I typed in above will show up in the final project when you hover over 
 
 Here's an example of an image locally maintained
 
-![raspi-4b-image](/Users/jhochberg/Downloads/Temp/DigiPi Wiki Demo/raspi-4b-image.jpg)
+![Raspberry Pi 4 Image](_static/raspi-4b-image.jpg)
 
 Notice how I renamed the file - I'm trying to standardize on all lower-case names with hyphens - NO SPACES in filenames!!!
 
